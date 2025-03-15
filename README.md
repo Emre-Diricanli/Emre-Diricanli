@@ -116,9 +116,9 @@ I'm a passionate Software Engineer with a strong focus on DevOps, Cloud Computin
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Emre-Diricanli&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Emre-Diricanli&theme=tokyonight&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Emre-Diricanli&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emre-Diricanli&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) </br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=Emre-Diricanli&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
 ![](https://github-profile-trophy.vercel.app/?username=Emre-Diricanli&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
