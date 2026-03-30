@@ -1,38 +1,45 @@
-# Hi, I'm Emre 👋
+# Emre Diricanli
 
-🚀 **Software Engineer | DevOps Enthusiast | Builder @ Alpha Data Tech**  
-I design, build, and deploy scalable systems — from on-prem homelabs to cloud-native infrastructures.  
-Currently: **Onboarding Engineer @ Spacture AI**, integrating AI-powered video analytics across retail & enterprise.  
+Software engineer focused on infrastructure, automation, and scalable systems.
 
----
-
-## 🛠️ Tech & Tools I Work With
-- **Languages:** JavaScript • TypeScript • Java • Python • Bash  
-- **Web & Frameworks:** Next.js • React • Node.js • Flutter  
-- **DevOps & Infra:** Docker • Kubernetes • Proxmox • Ansible • NGINX • Traefik  
-- **Cloud & Monitoring:** AWS • Grafana • Prometheus • Vault • Pi-hole  
+Currently an **Onboarding Engineer at Spacture AI**, integrating AI-powered video analytics across retail and enterprise environments. Building **Alpha Data Tech** on the side — a full-stack and DevOps solutions brand.
 
 ---
 
-## 🌍 What I'm Building
-- **[AlphaCluster](https://github.com/AlphaDataTech/AlphaCluster):** My on-prem homelab cloud, powering services via Proxmox + Docker + Ansible.  
-- **DevOps Playbooks:** IaC automation, self-hosted services, and blueprints for scalable infra.  
-- **Data Pipelines:** Experimenting with finance, crypto, and real-time feeds to automate insights.  
+### What I work on
+
+**Infrastructure & DevOps** — Docker, Kubernetes, Proxmox, Ansible, Terraform, Traefik, NGINX. I design and maintain production-grade systems from bare metal to cloud.
+
+**Cloud & Observability** — AWS, Grafana, Prometheus, Vault, Pi-hole. Monitoring, secrets management, and network-level control.
+
+**Application Development** — TypeScript, JavaScript, Python, Java. Building with Next.js, React, Node.js, and Flutter when the project calls for it.
 
 ---
 
-## 📈 Current Focus
-- Scaling **homelab → enterprise-grade** patterns.  
-- Exploring **GPU-accelerated inference servers** for edge + data center AI workloads.  
-- Growing **Alpha Data Tech** into a full-stack + DevOps solutions brand.  
+### Projects
+
+**[AlphaCluster](https://github.com/AlphaDataTech/AlphaCluster)** — On-prem homelab cloud running Proxmox + Docker + Ansible. Enterprise-grade patterns on commodity hardware.
+
+**DevOps Playbooks** — IaC automation, self-hosted service blueprints, and infrastructure templates for repeatable deployments.
+
+**Data Pipelines** — Real-time feeds and automation for finance, crypto, and operational data.
 
 ---
 
-## 🤝 Connect
-- 🌐 [Portfolio](https://ediricanli.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/emre-diricanli)  
-- 🧑‍💻 [GitHub Projects](https://github.com/AlphaDataTech)  
+### Current focus
+
+- Scaling homelab patterns to production infrastructure
+- GPU-accelerated inference servers for edge and data center AI workloads
+- Growing Alpha Data Tech as an infra-first engineering brand
 
 ---
 
-> *“Infrastructure is the foundation of innovation — build it right, and scale is effortless.”*  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emre-Diricanli&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://ediricanli.com">ediricanli.com</a> · <a href="https://www.linkedin.com/in/emre-diricanli">LinkedIn</a> · <a href="https://github.com/AlphaDataTech">Alpha Data Tech</a>
+</p>
