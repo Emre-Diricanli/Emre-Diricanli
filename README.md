@@ -20,7 +20,7 @@
 
 ---
 
-### 🛡️ What I do
+### What I do
 
 **Reliability & Observability** — SLOs, alerting, and incident response with **Grafana**, **Prometheus**, and **Vault**. I instrument systems so failures are visible before users feel them, and I treat toil as a bug to be automated away.
 
@@ -30,7 +30,7 @@
 
 ---
 
-### 🧰 Toolbox
+### Toolbox
 
 <p>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
@@ -57,7 +57,7 @@
 
 ---
 
-### 🚀 Selected work
+### Selected work
 
 | Project | What it is |
 | --- | --- |
@@ -69,7 +69,7 @@
 
 ---
 
-### 🎯 Current focus
+### Current focus
 
 - Turning homelab reliability patterns into production-grade SRE practice
 - Observability-first infrastructure — you can't keep alive what you can't see
